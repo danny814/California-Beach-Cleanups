@@ -50,7 +50,6 @@ mnth  |      yr    |      total_cleanups | monthly_total
 2   |       2019     |   93       |      46971
 3   |        2019    |    148     |       66416
 
-(insert chart here)
 
 __2.__ Are there specific months or seasons when certain types of trash are more prevalent?
 
