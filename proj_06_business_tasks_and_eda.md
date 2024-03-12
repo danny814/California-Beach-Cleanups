@@ -52,9 +52,9 @@ mnth  |      yr    |      total_cleanups | monthly_total
 
 (insert chart here)
 
-__2.__ Are there specific months or seasons when certain types of trash are more prevalent? (chart of types by month here)
+__2.__ Are there specific months or seasons when certain types of trash are more prevalent?
 
-__3.__ Can we identify any long-term trends or patterns in the frequency of cleanup efforts over the timeframe? (see chart)
+__3.__ Can we identify any long-term trends or patterns in the frequency of cleanup efforts over the timeframe?
 
 ```sql
 WITH totals AS 
@@ -252,7 +252,7 @@ yr     |     zone   |     TRASH_TYPE    |    max_trash_composition_pct
 2018 |       Monterey County, CA, USA  |         cig_butts  |    33.18
 2018 |       Contra Costa County, CA, USA  |           cig_butts  |   32.18
 
-__7.__ What is the distribution of cleanup efforts among different groups across the timeframe? (chart)
+__7.__ What is the distribution of cleanup efforts among different groups across the timeframe?
 
 ```sql
 SELECT COUNT(DISTINCT cleanup_id) AS cleanups,
@@ -329,7 +329,7 @@ Heal The Bay                        |               60305
 International Shoreline Cleanup 2019     |          51881
 Explore Ecology                       |             46394
 
-__9.__ What are the most common types of trash collected during beach cleanups? (chart)
+__9.__ What are the most common types of trash collected during beach cleanups?
 
 ```sql
 WITH trash_comp AS (
