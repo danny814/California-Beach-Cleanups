@@ -931,7 +931,7 @@ FROM cleanups$
 GROUP BY date, zone, group_name
 )
 
--- test
+-- unpivoting the data to aid in visualization within tableau
 
 SELECT
     date,
