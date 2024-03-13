@@ -24,3 +24,7 @@ The data can be found at the following sites:
 
 * [California Public Colleges and Universities Geodata](https://storymaps.arcgis.com/stories/3e441e82209a4a28a1591a73cb0c18b7?play=true&speed=medium)
 * [TIDES: Trash Information and Data for Education and Solutions](https://www.coastalcleanupdata.org/reports)
+
+## Table Schema
+
+![drawSQL-image-export-2024-03-13](https://github.com/danny814/California-Beach-Cleanups/assets/139296999/43f513d1-1d08-48d8-aefd-a95a432cc894)
