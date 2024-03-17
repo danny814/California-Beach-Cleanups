@@ -6,9 +6,9 @@
 
 __1.0 Plan awareness campaigns and cleanup efforts around seasons/months with historically higher levels of beach litter.__<br />
 
-![total_trash_pieces_by_year](total_trash_by_m.png)
+![total_trash_by_m](https://github.com/danny814/California-Beach-Cleanups/assets/139296999/ac1bebb2-d7ab-4e93-988d-85b96a734262)
 
-![cleanups_by_month](cleanups_by_m_1.png)
+![cleanups_by_m_1](https://github.com/danny814/California-Beach-Cleanups/assets/139296999/7078a9df-fb9b-4dc6-9538-42c440e51462)
 
 As we can see from the charts above, there is a seasonal aspect to the amounts of trash reported to have been collected that mirrors the same trend as the peak cleanup season.
 
@@ -22,7 +22,7 @@ Established groups that receive government funding and donations should hone the
 
 __2.0 Prioritize cleanup efforts in "high-priority" regions where consistently high levels of trash are observed.__
 
-![map_of_trash_levels](map_of_trash_comp.png)
+![map_of_trash_comp](https://github.com/danny814/California-Beach-Cleanups/assets/139296999/212a442b-e134-4b5c-94d9-9e652361a8ea)
 
 Established groups in the San Francisco, San Luis Obispo, Los Angeles, and San Diego counties should seek support from smaller groups and volunteers in nearby counties (where trash is not as prominent) to aid in their cleanup efforts, as these counties in particular displayed the highest volume of reported trash over the timeframe.
 
@@ -36,7 +36,7 @@ Groups belonging to high-priority counties should seek funding/resources/support
 
 __3.0 Tailor educational campaigns and outreach efforts to address the highest priority litter types.__
 
-![comp_totals_by_year](comp_totals_by_y.png)
+![comp_totals_by_y](https://github.com/danny814/California-Beach-Cleanups/assets/139296999/65403d63-2db6-4d1e-82d1-c77427460b3f)
 
 From the chart above, we can see that cigarette butts, food wrappers, and plastic/foam pieces are the trash types with the highest composition percentages based on reported trash.
 
@@ -44,7 +44,7 @@ Adverts and educational materials should be tailored to address these three tras
 
 __3.1 Advocate for the reduced use of high contributors to trash composition. Work with relevant industries and local companies for sustainable alternatives.__
 
-![trash_type_by_year](trash_type_by_y.png)
+![trash_type_by_y](https://github.com/danny814/California-Beach-Cleanups/assets/139296999/301c8b5c-c01e-4a62-b82a-39be0f5fe265)
 
 Plastic derivatives continuously lead the way in trash type reported. If possible, established groups should work with local businesses to seek more biodegradable alternatives. Businesses that take these initiatives could pave the way for others, and in doing so, would increase community outreach and support for such businesses.
 
