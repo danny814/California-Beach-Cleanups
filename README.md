@@ -10,6 +10,7 @@ A TSQL analysis of trash pickup efforts within California beaches and related co
 * [Business Tasks and EDA](https://github.com/danny814/California-Beach-Cleanups/blob/main/proj_06_business_tasks_and_eda.md)
 * [Full TSQL File](https://github.com/danny814/California-Beach-Cleanups/blob/main/proj_06_30.sql)
 * [Tableau Visualization](https://public.tableau.com/app/profile/danny.perez/viz/CaliforniaBeachCleanups/Dashboard)
+* [Analysis-Based Recommendations](https://github.com/danny814/California-Beach-Cleanups/blob/main/proj_06_recs.md)
 
 ![Screenshot 2024-03-11 212148](https://github.com/danny814/California-Beach-Cleanups/assets/139296999/fb7d1ea5-903f-4855-aa8e-e8d7d2ed91eb)
 
